@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Online Photo Storage</string>
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="email">Enter email</string>
+    <string name="upload">Upload</string>
+    <string name="about">About</string>
+    <string name="log_out">Log out</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThe app \'Online Photo Storage\', which you are using now is useful to store images permanently.\n\nYou can upload photos with ease.\n\nInitially create an account, and press upload button at top right corner. This will make you to upload images.\n\nCaution:\n\n\t\tOnce uploaded, you CAN\'T modify, delete data from it.\n\n\nSerial no: 32\nDate of creation: 3 May 2022\nmatrixinventions@gmail.com</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419994057658",
+    "project_id": "online-photo-storage",
+    "storage_bucket": "online-photo-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419994057658:android:92e51b84a81956b28d7b83",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.onlinephotostorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419994057658-eqoojgqn09gfrjqfh716g8iq7nrmp0g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJC26c2JCVetCsjNX13esA4dIlPjzzIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419994057658-eqoojgqn09gfrjqfh716g8iq7nrmp0g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
